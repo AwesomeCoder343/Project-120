@@ -1,0 +1,22 @@
+
+body{
+    background:mistyrose;
+    font-family: 'Yusei Magic', sans-serif;
+}
+.text_images_and_result{
+    
+        background: mistyrose;
+        padding: 10px;
+        margin-top: 15px;
+        border: 3px solid white;
+        font-size: 30px;
+        width: 500;
+        height:500;
+}
+.text_images_and_result img{
+    width:250;
+    height:250;
+}
+ h5{
+    font-size: 25px;
+}
